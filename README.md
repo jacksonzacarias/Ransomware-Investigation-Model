@@ -169,12 +169,11 @@ Todos os templates incluem:
 ## Contato e Suporte
 
 Para dúvidas sobre os templates ou sugestões de melhoria:
-- **Email:** [seu-email@organizacao.com]
-- **Telefone:** [seu-telefone]
-- **Reuniões:** [frequência de revisão]
+- **linkedin** [linkedin.com/in/jacksonzacarias]
+
 
 **Versão dos Templates:** 1.0  
-**Data de Criação:** [DD/MM/AAAA]  
+**Data de Criação:** [26/09/25]  
 **Próxima Revisão:** [DD/MM/AAAA]  
 **Classificação:** CONFIDENCIAL  
 **Desenvolvido por:** Jackson A Z Savoldi
