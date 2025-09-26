@@ -1,3 +1,17 @@
+---
+```
+# ============================================================================== 
+# PROJETO:      Templates de Procedimentos para Investigação de Ransomware
+# ============================================================================== 
+# Autor: Jackson A Z Savoldi
+# Data: 2025-08-26
+# LinkedIn: linkedin.com/in/jacksonzacarias
+# Instagram: @jacksonsavoldi
+# Formacao: Sistemas de Informacao
+# Especializacao: Seguranca da Informacao
+# ============================================================================== 
+
+```
 # Templates de Procedimentos para Investigação de Ransomware
 ## Documentação Bilíngue (Português Brasileiro e Italiano)
 
@@ -158,19 +172,6 @@ Para dúvidas sobre os templates ou sugestões de melhoria:
 - **Email:** [seu-email@organizacao.com]
 - **Telefone:** [seu-telefone]
 - **Reuniões:** [frequência de revisão]
-
----
-
-# ============================================================================== 
-# PROJETO:      Templates de Procedimentos para Investigação de Ransomware
-# ============================================================================== 
-# Autor: Jackson A Z Savoldi
-# Data: 2025-08-26
-# LinkedIn: linkedin.com/in/jacksonzacarias
-# Instagram: @jacksonsavoldi
-# Formacao: Sistemas de Informacao
-# Especializacao: Seguranca da Informacao
-# ============================================================================== 
 
 **Versão dos Templates:** 1.0  
 **Data de Criação:** [DD/MM/AAAA]  

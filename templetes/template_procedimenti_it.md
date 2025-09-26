@@ -1,3 +1,22 @@
+---
+```
+# ============================================================================== 
+# PROJETO:      Templates de Procedimentos para Investigação de Ransomware
+# ============================================================================== 
+# Autor: Jackson A Z Savoldi
+# Data: 2025-08-26
+# LinkedIn: linkedin.com/in/jacksonzacarias
+# Instagram: @jacksonsavoldi
+# Formacao: Sistemas de Informacao
+# Especializacao: Seguranca da Informacao
+# ============================================================================== 
+
+```
+# Templates de Procedimentos para Investigação de Ransomware
+## Documentação Bilíngue (Português Brasileiro e Italiano)
+
+---
+
 # Template: Procedimenti per Investigazione Ransomware
 ## Guida di Risposta agli Incidenti
 
@@ -277,17 +296,6 @@ Questo documento stabilisce i procedimenti standardizzati per la risposta agli i
 | Direttore Esecutivo | [Nome] | [ ] | [DD/MM/AAAA] |
 
 ---
-
-# ============================================================================== 
-# PROGETTO:     Templates di Procedimenti per Investigazione Ransomware
-# ============================================================================== 
-# Autore: Jackson A Z Savoldi
-# Data: 2025-08-26
-# LinkedIn: linkedin.com/in/jacksonzacarias
-# Instagram: @jacksonsavoldi
-# Formazione: Sistemi di Informazione
-# Specializzazione: Sicurezza dell'Informazione
-# ============================================================================== 
 
 **Template versione:** 1.0  
 **Creato il:** [DD/MM/AAAA]  
