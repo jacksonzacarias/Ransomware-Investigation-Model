@@ -1,9 +1,31 @@
+# Relatórios de Incidentes (sensíveis - não versionar)
 Relatorio_de_incidente.md
-/Img
+Relatorio_Incidente_Ransomware_FS_Profissional.*
+jacksonAntonioZacariasSavoldi*
+*Relatorio_TRI*
+
+# Evidências e Imagens
+/Img/
+*.png
+*.jpeg
+*.jpg
+*.gif
+
+# Arquivos de Processo e Análise
 Info_ativo.ps1
-Relatorio_Incidente_Ransomware_FS_Profissional.jpeg
-Relatorio_Incidente_Ransomware_FS_Profissional.png
-Relatorio_Incidente_Ransomware_FS_Profissional.html
-Ransomware_FS_Profissional.md
-Relatorio_Incidente_Ransomware_FS_Profissional.pdf
-Relatorio_Incidente_Ransomware_FS_Profissional.md
+*.ps1
+*.bat
+*.cmd
+
+# Arquivos Temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de Conversão
+*.html
+*.pdf
+
+# Arquivos de Backup
+*.bak
+*~
