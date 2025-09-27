@@ -14,9 +14,6 @@
 ---
 
 
-
-
-
 # Manual de Instruções: Investigação de Ransomware
 ## Guia Prático para Técnicos e Analistas
 
